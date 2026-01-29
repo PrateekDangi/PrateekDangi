@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Prateek Dangi&fontSize=60>
+</p>
 # 💫 About Me:
 Hi there 👋  <br><br>Nice to meet you, I'm Prateek!  <br><br>🔐 I’m currently exploring Cybersecurity & Web Development <br>💬 Ask me about Phishing Detection, Network Security, Digital Forensics, or Web development related stuff  <br>📫 How to reach me: LinkedIn- @prateekdangi | Instagram- @_prateekdangi__<br>😄 Pronouns: He/Him  <br>⚡ Fun fact: If I’m not securing systems, I’m probably breaking them to understand how attackers think 😄<br>
 
